@@ -1,0 +1,31 @@
+set_num,name,theme,subtheme,year_released,pieces,minifigs,retail_price_usd,current_value_usd,price_per_piece,is_18plus,condition,notes
+75274,TIE Fighter Pilot Helmet,Star Wars,Helmet Collection,2020,724,0,59.99,95.0,0.0829,Yes,Built/Displayed,
+75276,Stormtrooper Helmet,Star Wars,Helmet Collection,2020,647,0,59.99,85.0,0.0927,Yes,Built/Displayed,
+75277,Boba Fett Helmet,Star Wars,Helmet Collection,2020,625,0,59.99,110.0,0.096,Yes,Built/Displayed,
+75304,Darth Vader Helmet,Star Wars,Helmet Collection,2021,834,0,69.99,90.0,0.0839,Yes,Built/Displayed,
+75305,Scout Trooper Helmet,Star Wars,Helmet Collection,2021,471,0,49.99,75.0,0.1061,Yes,Built/Displayed,
+75327,Luke Skywalker (Red Five) Helmet,Star Wars,Helmet Collection,2022,675,0,69.99,85.0,0.1037,Yes,Built/Displayed,
+75328,The Mandalorian Helmet,Star Wars,Helmet Collection,2022,584,0,69.99,90.0,0.1198,Yes,Built/Displayed,
+75349,Captain Rex Helmet,Star Wars,Helmet Collection,2023,854,0,69.99,80.0,0.082,Yes,Built/Displayed,
+75351,Princess Leia (Boushh) Helmet,Star Wars,Helmet Collection,2023,670,0,69.99,96.0,0.1045,Yes,Built/Displayed,
+75255,Yoda,Star Wars,Buildable Figures,2019,1771,1,99.99,180.0,0.0565,No,Built/Displayed,Pre-18+ era; rated 16+
+75318,Grogu,Star Wars,Buildable Figures,2021,1073,1,79.99,95.0,0.0745,No,Built/Displayed,Pre-18+ era; rated 10+
+75371,Chewbacca,Star Wars,Buildable Figures,2023,2319,2,199.99,220.0,0.0862,Yes,Built/Displayed,
+75398,C-3PO,Star Wars,Buildable Figures,2024,1138,1,149.99,155.0,0.1318,Yes,Built/Displayed,
+75308,R2-D2,Star Wars,Buildable Figures,2021,2314,2,199.99,290.0,0.0864,Yes,Built/Displayed,
+75306,Imperial Probe Droid,Star Wars,Sculptures,2021,683,0,59.99,85.0,0.0878,Yes,Built/Displayed,
+75339,Death Star Trash Compactor Diorama,Star Wars,Diorama Collection,2022,802,5,89.99,105.0,0.1122,Yes,Built/Displayed,
+75329,Death Star Trench Run Diorama,Star Wars,Diorama Collection,2022,665,3,69.99,90.0,0.1052,Yes,Built/Displayed,
+75352,Death Star II Throne Room Diorama,Star Wars,Diorama Collection,2023,807,4,89.99,100.0,0.1115,Yes,Built/Displayed,
+75330,Dagobah Jedi Training Diorama,Star Wars,Diorama Collection,2022,1000,3,79.99,100.0,0.08,Yes,Built/Displayed,
+75353,Endor Speeder Chase Diorama,Star Wars,Diorama Collection,2023,608,3,79.99,90.0,0.1316,Yes,Built/Displayed,
+75380,Mos Espa Podrace Diorama,Star Wars,Diorama Collection,2024,718,5,79.99,85.0,0.1114,Yes,Built/Displayed,
+75375,Millennium Falcon,Star Wars,25th Anniversary,2024,921,5,119.99,125.0,0.1303,Yes,Built/Displayed,
+75376,Tantive IV,Star Wars,25th Anniversary,2024,654,3,99.99,105.0,0.1529,Yes,Built/Displayed,
+75381,Droideka,Star Wars,25th Anniversary,2024,583,2,64.99,70.0,0.1115,Yes,Built/Displayed,
+76191,Infinity Gauntlet,Marvel,Super Heroes,2021,590,0,69.99,95.0,0.1186,Yes,Built/Displayed,
+76989,Horizon Forbidden West: Tallneck,Icons,Gaming,2022,1222,2,79.99,130.0,0.0655,Yes,Built/Displayed,
+21265,The Crafting Table,Minecraft,Minecraft,2024,1195,8,89.99,90.0,0.0753,Yes,Built/Displayed,Gift for son; sentimental
+42154,2022 Ford GT,Technic,Technic,2023,1466,0,80.00,115.00,0.0818,Yes,Built/Displayed,Purchased on sale
+71426,Piranha Plant,Super Mario,Super Mario,2023,540,0,59.99,65.0,0.1111,Yes,Built/Displayed,
+72046,Game Boy,Super Mario,Nintendo,2025,1441,0,119.99,119.99,0.0833,Yes,Built/Displayed,
